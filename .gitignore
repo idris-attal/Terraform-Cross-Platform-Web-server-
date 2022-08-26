@@ -1,0 +1,18 @@
+# /priv/static/assets/
+/aws/*.terraform
+/aws/*.terraform.lock.hcl
+/aws/terraform.tfstate
+/aws/terraform.tfstate.backup
+
+
+/azure/*.terraform
+/azure/*.terraform.lock.hcl
+/azure/terraform.tfstate
+/azure/terraform.tfstate.backup
+
+
+
+/google_cloud/*.terraform
+/google_cloud/*.terraform.lock.hcl
+/google_cloud/terraform.tfstate
+/google_cloud/terraform.tfstate.backup

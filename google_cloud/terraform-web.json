@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "terraform-web",
+  "private_key_id": "e08e2d6e92733d40c2545adcdc5078cf00926138",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrw06RM/ex3m82\n1E8sv5QVJc6sRqM+2njlz5Xpnp+zs5/4EJQEwofs9hluNULgM1XofxO8K5Ve5l7W\ng8dzzx1TDqs67y7OU0lFn5D5iCgvOmzchZrsfn8oP0kW4TGeDEDicEQ1oxHuBgwd\nBBromMABkklssCIZECgJ5WvEOvL9DmjXraR6iHXFV4KpxCfSEflK3VlCibGriLxF\n1NOEegquUP/IDVst5uW71h+T2EGeoaAVR4i6F2DZobKVsHr3SGcGg6juH9oDQNxx\nOqPmBBwFw9nuPiUyzdw9mVqDzQBvlrWiKrfTYZ6PDfmPGSuqcEvgEzBZzlNd+w7w\nIeU1B59xAgMBAAECggEARF0ZddClyx05zaxmEOz1fw9LuaTpz5f8G5fqVpBEhy08\nw+qxR0239RgkmglH4117WWzOyYvdSWbOo3nS1mS+irLhczUEv6lFlhkDBlZrjBSo\nhIMG3Q8iBD5gFGOwMHQ3FQlTFLghaEfu5VOfdClr7pQvdjuKbshP71RpdrJxyUcd\n0j7MTE8D3nCeDaAcPL9qOD0tNX+eXX4qZtwqysHId9RQxuAI0x7TY0swlT6fyrgS\nqY538z4HhRD7ao9SUdoyLiTjftPdcYjFdutf3MGAUCWfjpiHeKDMl+7q7RCfQGjR\nGxWm6lbqV9uUfSeVKnQLR7A8mNG0+E58i0nGn6trSwKBgQDl1rQk4FgiqEjdbYK+\nksO3q1ULGMO5L0CyzuTftFmshgt9RSAiBsE4he31zSlen+ClXCp7NY/ILKadz0S9\nlPLJl5av7KJiERnZ15bklfF1nla9/Kp+B553OwORo4bUJV3WZimsQ9euvhKOAL9P\nbr5KquS+UZOKM/Y2bD0wupt/4wKBgQC/UFOczvi/63I+2cSQt3rSvXyQJcpZYWti\nUVaVYESH+EgsX+5NBTaAyQCRSuncNwt5xbV0FFuZ9d8Kv9kOnDB3un6p+XGcOa00\nllLxmsuHwy9rbVu2CSbLjBPsff+ihF73RT3eeBvjQZ2+m15x/5c76hKfxp5LbHoC\nhH0pGL7bmwKBgFyNrDdZXESAje8VBVxmz4er5/AzBcYR4DThGct33dCang/RAVKS\nc8amMCAWgP1I1nbgeX7qH79VM7dC2wSY8Xf6okSvvuhMyKMvrOTZ+MULgRS6pZFg\n0hBjZFmGh2nwriwDMe7b1wPYKLKkXGXJS7nXvYtiYE58BD8AMVfpHWtPAoGAO9QU\nAdLcCbDIzoztotAuUd8+KBoZWLBVk66aJCax58+mSnJJpL5/l/DEA6vozJxOM2u3\n3jBLoS857DOo3p/LrHWfDOrcM53545srHzFoevF4T+EoMBpWjosk4+1XV2yMAkoe\nGgd3uS8Y9LXD6GSk1/DQmDTV5gJreYQTXBnH/gcCgYEAuzwtFwACtjgQ2Ihc0jO8\nEvRETIAaWNsWNatZc57u2q15a0bas+oRNsRDSXDFGLsOr6F5ygZERyu8kuEm6qMd\n/AgvyXX7BKpxMNDU367z3vOhZfADfh4c9W9yCZq/i+YDTpP5hR2CGjtcSKAgoph1\n2/34zJ8RjtJOzhf9b2eTgW0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@terraform-web.iam.gserviceaccount.com",
+  "client_id": "102091766935172562296",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40terraform-web.iam.gserviceaccount.com"
+}
